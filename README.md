@@ -1,4 +1,4 @@
-## UDP Spoofed IP Flooder-C
+## UDP Spoofed IP Flooder
 UDP Flooder Using Spoofed IP Address In C
 
 ## How to compile:
