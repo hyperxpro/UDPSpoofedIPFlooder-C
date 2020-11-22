@@ -11,4 +11,4 @@ gcc udp.c -o udp -lpthread
 ./udp <target IP> <port> <number threads to use> <throttle, -1 for no limit> <time>
 ```
 
-#### This code is only for education purpose. I'm not responsible for anything done with this tool.
+#### NOTE: This code is only for education purpose. I'm not responsible for anything done with this tool.
